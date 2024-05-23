@@ -1,3 +1,3 @@
 $(document).ready(function() {
-    $("#header-placeholder").load("/law/header.html");
+    $("#header-placeholder").load("/carbon-tax/header.html");
 });
